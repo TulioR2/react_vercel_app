@@ -15,9 +15,10 @@ A aplicacao possui tres telas principais:
 ### Imagens do Projeto
 
 Pagina Inicial:
-<img width="1918" height="1038" alt="tela 1" src="https://github.com/user-attachments/assets/9ccd8b4b-ffc2-4e8a-aca8-a5870eaed92c" />
-Pagina de Detalhes:
 <img width="1919" height="1104" alt="tela3" src="https://github.com/user-attachments/assets/68d0feb2-6a99-499d-9cda-61116839ac8e" />
+
+Pagina de Detalhes:
+<img width="1918" height="1038" alt="tela 1" src="https://github.com/user-attachments/assets/9ccd8b4b-ffc2-4e8a-aca8-a5870eaed92c" />
 
 Pagina de Favoritos:
 <img width="1915" height="1042" alt="tela 2" src="https://github.com/user-attachments/assets/76dac65b-c3a0-46eb-bcd6-ad68b31a70b8" />
