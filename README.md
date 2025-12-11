@@ -1,14 +1,56 @@
-# react_vercel_app
+Este projeto foi desenvolvido como atividade acadêmica da disciplina Frontend Frameworks (ADS). O objetivo foi criar uma aplicação em React utilizando Vite, consumindo uma API pública de livros do universo Harry Potter. O sistema exibe um livro aleatório, permite visualizar detalhes e também salvar livros como favoritos através do LocalStorage.
 
-Aplicação desenvolvida para a disciplina Frontend Frameworks — projeto que consome a API pública de livros de Harry Potter.
+A API utilizada no projeto foi:
+https://potterapi-fedeperin.vercel.app/pt/books
 
-## Tecnologias
-- React + Vite
-- Tailwind CSS
-- react-router-dom
-- localStorage para persistência de favoritos
+Tecnologias utilizadas
 
-## Como rodar
-1. `npm install`
-2. `npm run dev` — abrirá em http://localhost:5173
-3. Para produção: `npm run build` e subir o build para Vercel (configurar build command: `npm run build`, output: `dist`)
+React
+
+Vite
+
+JavaScript
+
+HTML/CSS
+
+Node.js
+
+React Router
+
+Como executar o projeto localmente
+
+Clonar o repositório:
+
+git clone https://github.com/seu-usuario/react_vercel_app.git
+
+
+Acessar a pasta:
+
+cd react_vercel_app
+
+
+Instalar dependências:
+
+npm install
+
+
+Executar o projeto:
+
+npm run dev
+
+
+A aplicação ficará disponível em:
+http://localhost:5173
+
+Publicação
+
+O deploy foi feito na Vercel usando:
+
+vercel
+vercel --prod
+
+Licença
+
+Este repositório utiliza a licença Creative Commons Attribution 4.0 (CC BY 4.0), permitindo uso e adaptação com atribuição.
+
+
